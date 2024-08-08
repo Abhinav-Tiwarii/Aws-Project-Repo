@@ -1,0 +1,7 @@
+First Data Engineering Project 
+In this, I have to load data from S3 bucket which is in csv format to S3 bucket in json format using AWS Glue Crawler and AWS Glue datalog.
+The techstacks used are:
+* S3
+* Aws Glue Crawler
+* Aws Glue Datalog
+* IAM
